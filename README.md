@@ -4,9 +4,15 @@ This repository contains a machine learning model for classifying iris flowers i
 **Features**
 
 Data Preprocessing: Cleaning and preparing the dataset for training.
+
 Exploratory Data Analysis (EDA): Analyzing the dataset to understand the relationships between different features and the target species.
+
 Feature Engineering: Selecting the most relevant features to improve model performance.
+
 Model Training: Implementing and training various machine learning models to find the best classifier.
+
 Model Evaluation: Assessing the performance of the trained models using appropriate metrics.
+
 Hyperparameter Tuning: Optimizing the model parameters to enhance classification accuracy.
+
 Deployment: Providing scripts and guidelines for deploying the model into a production environment.
